@@ -1,3 +1,6 @@
+<php?
+session_start();
+?></php>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,6 +9,18 @@
     <title>Form</title>
 </head>
 <body>
-    
+    <form action="action.php" method="post">
+        Nombre: <input type="text" name="name"><br>
+        Email: <input type="text" name="email"><br>
+        Color favorito: <input type="text" name="favcolor"><br>
+        Como te gustaría que acabase el capitalismo:<br>
+             <input type="radio" name="endcapitalism" value="auto">Acabará colapsando sobre sí mismo, no hay que hacer nada.<br>
+             <input type="radio" name="endcapitalism" value="revolution">Con una revolución obrera mundial y transversal.<br>
+             <input type="radio" name="endcapitalism" value="zombie">Con un apocalipsis zombie.<br>
+             <input type="radio" name="endcapitalism" value="pigeon">Palomas súper inteligentes.<br>
+             <input type="radio" name="endcapitalism" value="never">El capitalismo nunca morirá. Viva la libretad carajo!!!<br>
+
+        <input type="submit">
+    </form>
 </body>
 </html>
