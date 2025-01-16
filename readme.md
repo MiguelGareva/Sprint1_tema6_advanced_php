@@ -25,6 +25,9 @@
     **<h4>·Nivel2:</h4>**
     · <a href="1.6.1_advanced_php_nivell2">#Ejercicio 1</a>: *"Crea una classe que representi un recurs didàctic d’aquesta especialitat. Els recursos hauran de tenir un nom, un tema (que només podrà ser PHP, CSS, HTML, SQL, Laravel) un URL i un tipus de recurs (Fitxer, Article web, Vídeo). Implementa tant el tema com el tipus de recurs amb enums."*<br>
     · <a href="1.6.2_advanced_php_nivell2">#Ejercicio 2</a>: *"Implementa una classe Car que tingui informació sobre un cotxe (marca, matrícula, tipus de combustible, velocitat màxima). A més, implementa un Trait anomenat Turbo que tingui un mètode boost() que mostri un missatge “S’ha iniciat el turbo”. Usa aquest mètode des de la classe Car."*<br>
+    **<h4>·Nivel2:</h4>**
+    · <a href="1.6.1_advanced_php_nivell3">#Ejercicio 1</a>: *"Instal.la Composer al teu ordinador. Dona un cop d'ull a alguna llibreria que t'interessi i instal·la-la mitjançant Composer."*<br>
+    · <a href="1.6.2_advanced_php_nivell3">#Ejercicio 2</a>: *"Crea un programa que faci servir aquesta llibreria."*<br>
 
 
     

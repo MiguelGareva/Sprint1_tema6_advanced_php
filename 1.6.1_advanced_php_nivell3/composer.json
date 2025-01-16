@@ -1,0 +1,18 @@
+{
+    "name": "miguelgareva/tema6_advanced_php",
+    "description": "ex1 lvl3 topic6 sprint1",
+    "require": {
+        "fakerphp/faker": "^1.24"
+    },
+    "autoload": {
+        "psr-4": {
+            "Miguelgareva\\Tema6AdvancedPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "miguel garcia",
+            "email": "miguel.gareva@gmail.com"
+        }
+    ]
+}
